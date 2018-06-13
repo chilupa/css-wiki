@@ -1,2 +1,2 @@
 # css-wiki
-important notes on css
+Please visit the Wiki page
